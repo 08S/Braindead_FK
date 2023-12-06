@@ -30,4 +30,4 @@ AWS_BUCKET_NAME = "s3-bucket-prod-name"
 
 # Critical secrets should not be stored in code. AWS secrets manager should be used ALWAYS
 
-Here is your flag - FK_Cyber_Mela{Commit_cautiously}
+Here is your flag - Braindead_FK{Commit_cautiously}
